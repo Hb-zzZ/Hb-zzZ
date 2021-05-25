@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hb-zzZ
+👋 Hi, I’m @Hb-zzZ
 
 <!---
 Hb-zzZ/Hb-zzZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
